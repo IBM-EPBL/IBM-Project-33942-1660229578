@@ -1,6 +1,7 @@
 # IBM-Project-33942-1660229578
-<h1 align="fill" >
 
+<h1 align="fill" >
+ <img src="Enviromental setup/CUSTOMER CARE REGISTRY.jpg"/>
 </h1>
 
 CUSTOMER CARE REGISTRY 
